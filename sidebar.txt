@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[scu:home|Door43 (scu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-scu|d43-scu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-scu/archive/master.zip|d43-scu.zip]]
+
+**Recent Changes**
+{{changes>ns = scu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/scu|Ethnologue data]]
+
